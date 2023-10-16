@@ -1,0 +1,76 @@
+[
+    {
+        "district":"Ariyalur",
+        "pincode":{
+            "minPincode":"608703",
+            "maxPincode": "621851"
+        },
+        "totalNoOfPincode":"222"
+    },
+    {
+        "district":"Chennai",
+        "pincode":{
+            "minPincode":"600001",
+            "maxPincode": "600118"
+        },
+        "totalNoOfPincode":"112"
+    },
+    {
+        "district":"Coimbatore",
+        "pincode":{
+            "minPincode":"624622",
+            "maxPincode": "642207"
+        },
+    
+        "totalNoOfPincode":"613"
+    },
+    {
+        "district":"Cuddalore",
+        "pincode":{
+            "minPincode":"605007",
+            "maxPincode": "608801"
+        },
+    
+        "totalNoOfPincode":"466"
+    },
+    {
+        "district":"Dharmapuri",
+        "pincode":{
+            "minPincode":"635111",
+            "maxPincode": "636906"
+        },
+        "totalNoOfPincode":"260"
+    },
+    {
+        "district":"Erode",
+        "pincode":{
+            "minPincode":"638001",
+            "maxPincode": "642206"
+        },
+        "totalNoOfPincode":"522"
+    },
+    {
+        "district":"Kanchipuram",
+        "pincode":{
+            "minPincode":"600016",
+            "maxPincode": "631606"
+        },
+        "totalNoOfPincode":"481"
+    },
+    {
+        "district":"Kanyakumari",
+        "pincode":{
+            "minPincode":"629001",
+            "maxPincode": "629901"
+        },
+        "totalNoOfPincode":"267"
+    },
+    {
+        "district":"Karur",
+        "pincode":{
+            "minPincode":"621301",
+            "maxPincode": "639207"
+        },
+        "totalNoOfPincode":"241"
+   }
+]
